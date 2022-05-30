@@ -5,7 +5,7 @@
 	- create an account at https://github.com/ if necessary
 
 ## Policies
-- facilitator doesn't share their screen, and if anyone needs to share their screen it'll be a participant
+- facilitator doesn't share their screen, ask a different participant to share their screen for each lesson
 
 # Lesson One: Intro to Markdown
 - everyone edits a different .md file in the browser as assigned by the facilitator
