@@ -83,10 +83,10 @@
 ## Question Five: Why do we delete branches after they have been merged?
 
 # Lesson Six: Merging With Conflicts
-- everyone goes to the main branch and edits the same .md in the browser
+- two people go to the main branch and edit the same .md in the browser
 	- make a changes to several different lines (change formatting, naming conventions, etc.)
-- everyone creates a new branch for their commit and starts a pull request
-- open up your pull request, and we're going to merge them one at a time
+- both people create a new branch for their commits and start a pull request
+- open up one pull request, and we're going to merge them one at a time
 - share your screen when a pull request says "This branch has conflicts that must be resolved"
 	- click "Resolve conflicts"
 	- actually resolve conflicts
