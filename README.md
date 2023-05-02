@@ -1,6 +1,6 @@
 # Preamble
 
-## Prerequitiess
+## Prerequisites
 - participants have been added as collaborators to a sample private repo that will get destroyed
 	- create an account at https://github.com/ if necessary
 
