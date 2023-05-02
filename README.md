@@ -94,4 +94,4 @@
 - notice the "Files changed" in your pull request
 - "Merge pull request" and delete branch
 
-## Question Six: Why do merge conflicts occur?
+## Question Six: What can be done to prevent merge conflicts?
