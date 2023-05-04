@@ -12,6 +12,7 @@
 - you will gain enough familiarity with GitHub that you could see for yourself the conversations developers have about their code
 
 # Lesson One: Intro to Markdown
+- editing .md files and viewing the rendered results in the browser simulates code deployment and release activities
 - everyone edits a different .md file in the browser as assigned by the facilitator
 	- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 - commit directly to the main branch (FOR NOW)
