@@ -7,13 +7,17 @@
 ## Policies
 - facilitator doesn't share their screen, ask a different participant to share their screen for each lesson
 
+# Introduction
+- this workshop will give you a better understanding of an important part of every developer's job: code review
+- you will gain enough familiarity with GitHub that you could see for yourself the conversations developers have about their code
+
 # Lesson One: Intro to Markdown
 - everyone edits a different .md file in the browser as assigned by the facilitator
 	- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 - commit directly to the main branch (FOR NOW)
 - notice the changes to the rendered blob (vs source blob)
 - notice the latest commit and time is listed next to the file name
-	- commit "SHA" stands for the Simple Hashing Algorithm that generates a checksum to uniquely identify a commit
+	- commit "SHA" stands for the Simple Hashing Algorithm that generates the checksum used to uniquely identify a commit
 	- view a commit
 		- split/unified changes
 		- source/rich diff
